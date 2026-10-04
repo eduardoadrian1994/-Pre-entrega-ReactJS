@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Air 14”",
+    "category": "Computación",
+    "description": "Liviana para llevar tus ideas a cualquier lugar.",
+    "price": 1249999,
+    "stock": 8,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "tag": "Más elegido"
+  },
+  {
+    "id": 2,
+    "name": "Monitor Studio 27”",
+    "category": "Computación",
+    "description": "Mucho más espacio para crear, jugar y trabajar.",
+    "price": 679999,
+    "stock": 5,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85",
+    "tag": "Nuevo"
+  },
+  {
+    "id": 3,
+    "name": "Auriculares Pulse",
+    "category": "Audio",
+    "description": "Tu música, sin ruido y con toda su potencia.",
+    "price": 189999,
+    "stock": 12,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+    "tag": "Favorito"
+  },
+  {
+    "id": 4,
+    "name": "Teclado mecánico K2",
+    "category": "Accesorios",
+    "description": "Cada tecla, una nueva forma de expresarte.",
+    "price": 142500,
+    "stock": 3,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+    "tag": ""
+  },
+  {
+    "id": 5,
+    "name": "Mouse inalámbrico Flow",
+    "category": "Accesorios",
+    "description": "Precisión y comodidad en cada movimiento.",
+    "price": 79999,
+    "stock": 0,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85",
+    "tag": ""
+  },
+  {
+    "id": 6,
+    "name": "Parlante portátil Go",
+    "category": "Audio",
+    "description": "Llevá el ritmo con vos, adonde vayas.",
+    "price": 114900,
+    "stock": 7,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=85",
+    "tag": "Para llevar"
+  }
+]
